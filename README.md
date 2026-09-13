@@ -1,3 +1,11 @@
+# Travel-Shield
+
+## My role in this project
+
+This was a four-person team project developed during the Yapay Zeka ve Teknoloji Akademisi Bootcamp. I served as Product Owner for Takım 127, coordinating product priorities, task allocation, delivery timing, and AI-assisted implementation workflows, including preparing structured prompts and work instructions for teammates. Communication ownership was handled by another teammate. The original sprint documentation is preserved below.
+
+---
+
 # Sprint 1
 ---
 ## Takım İsmi
